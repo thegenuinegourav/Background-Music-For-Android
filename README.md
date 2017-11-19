@@ -3,6 +3,8 @@ An Android App that shows how to add background music in your android app using 
   
 Can be used for long clips in Game Development.  
   
+Demo Video on [Youtube](https://www.youtube.com/watch?v=s67KnuSd3Js)  
+  
 ## MediaPlayer Vs SoundPool  
 Sound pool is actually audio mixer. It can play short clips only regardless of whether they are encoded as ogg or mp3 or they are 
 uncompressed. Sound pool always store them in memory uncompressed, and you must know that limit is 1 MB.  
